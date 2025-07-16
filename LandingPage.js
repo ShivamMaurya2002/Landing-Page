@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // ===== DOM Elements =====
+  // DOM Elements
   const timeField = document.getElementById("time");
   const replyToField = document.getElementById("reply_to");
   const emailField = document.getElementById("email");
@@ -8,17 +8,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const mobileMenuBtn = document.getElementById("mobileMenuBtn");
   const navLinks = document.getElementById("navLinks");
 
-  // ===== Auto-fill current time =====
+  //  Auto-fill current time 
   if (timeField) timeField.value = new Date().toLocaleString();
 
-  // ===== Sync reply_to with email input =====
+  //  Sync reply_to with email input 
   if (emailField && replyToField) {
     emailField.addEventListener("input", () => {
       replyToField.value = emailField.value;
     });
   }
 
-  // ===== Mobile Menu Toggle =====
+  //  Mobile Menu Toggle 
   if (mobileMenuBtn && navLinks) {
     mobileMenuBtn.addEventListener("click", () => {
       navLinks.classList.toggle("active");
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // ===== Navbar Scroll Effect & Section Reveal =====
+  // Navbar Scroll Effect & Section Reveal
   window.addEventListener("scroll", () => {
     const nav = document.querySelector("nav");
     if (nav) {
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // ===== Smooth Scrolling for Anchors =====
+  // Smooth Scrolling for Anchors 
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener("click", function (e) {
       e.preventDefault();
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // ===== Initialize Section Animations =====
+  // Initialize Section Animations
   document.querySelectorAll("section").forEach(section => {
     section.style.opacity = "0";
     section.style.transform = "translateY(20px)";
@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const hero = document.querySelector(".hero");
   if (hero) hero.style.opacity = "1";
 
-  // ===== EmailJS Form Submission with Auto-Reply =====
+  // EmailJS Form Submission with Auto-Reply
   if (contactForm && statusMsg) {
     contactForm.addEventListener("submit", function (e) {
       e.preventDefault();
