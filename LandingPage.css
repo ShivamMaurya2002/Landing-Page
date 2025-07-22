@@ -253,8 +253,6 @@ h2 {
     line-height: 1.5;
 }
 
-
-
 .project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
@@ -649,6 +647,7 @@ footer {
     }
 }
 
+
 /* Small devices (up to 768px) */
 @media (max-width: 768px) {
     .hero {
@@ -685,6 +684,7 @@ footer {
         gap: 30px;
     }
 }
+
 
 /* Extra small devices (up to 576px) */
 @media (max-width: 576px) {
