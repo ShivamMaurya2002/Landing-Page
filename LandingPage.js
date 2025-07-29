@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // DOM Elements
+// DOM Elements
   const timeField = document.getElementById("time");
   
   const replyToField = document.getElementById("reply_to");
