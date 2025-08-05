@@ -8,18 +8,15 @@
  <h1 align="left"> <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
   </a>
+   <p align="right">
+  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
+</p>
   </h1> 
 
 <h1 align="center"> 🚀 Modern Landing Page</h1>
 
 <p align="center">
   A high-impact, fully responsive landing page built with modern web technologies — HTML, CSS, JavaScript, and EmailJs API Integration.</br> Designed with a sleek, elegant interface and smooth user experience, it's perfect for showcasing portfolios, launching startups, promoting products, or presenting services with style and clarity.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=blueviolet">
-  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
-  <br>
 </p>
 
 ---
