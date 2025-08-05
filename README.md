@@ -61,34 +61,34 @@
 
 <h1 align="center">🎯 Key Features</h1>
 
-<table align="center">
-  <tr>
-    <td>✅</td>
-    <td><strong>Responsive Design</strong><br><sub>Looks great on all screen sizes</sub></td>
+<table align="center" width="90%">
+  <tr style="background-color:#fdf6e3;">
+    <td width="5%" align="center">✅</td>
+    <td><strong>Responsive Design</strong> <sub>Looks great on all screen sizes</sub></td>
   </tr>
-  <tr>
-    <td>🎨</td>
-    <td><strong>Animated Effects</strong><br><sub>Smooth transitions for interactive sections</sub></td>
+  <tr style="background-color:#f0f8ff;">
+    <td align="center">🎨</td>
+    <td><strong>Animated Effects</strong> <sub>Smooth transitions for interactive sections</sub></td>
   </tr>
-  <tr>
-    <td>🧹</td>
-    <td><strong>Clean Codebase</strong><br><sub>Simple, modular, and easy to understand</sub></td>
+  <tr style="background-color:#fdf6e3;">
+    <td align="center">🧹</td>
+    <td><strong>Clean Codebase</strong> <sub>Simple, modular, and easy to understand</sub></td>
   </tr>
-  <tr>
-    <td>🎛️</td>
-    <td><strong>Fully Customizable</strong><br><sub>Swap colors, content, sections quickly</sub></td>
+  <tr style="background-color:#f0f8ff;">
+    <td align="center">🎛️</td>
+    <td><strong>Fully Customizable</strong> <sub>Swap colors, content, sections quickly</sub></td>
   </tr>
-  <tr>
-    <td>⚙️</td>
-    <td><strong>No Framework Bloat</strong><br><sub>Pure HTML/CSS/JS = blazing fast</sub></td>
+  <tr style="background-color:#fdf6e3;">
+    <td align="center">⚙️</td>
+    <td><strong>No Framework Bloat</strong> <sub>Pure HTML/CSS/JS = blazing fast</sub></td>
   </tr>
-  <tr>
-    <td>🌍</td>
-    <td><strong>Cross-Browser Support</strong><br><sub>Works perfectly across modern browsers</sub></td>
+  <tr style="background-color:#f0f8ff;">
+    <td align="center">🌍</td>
+    <td><strong>Cross-Browser Support</strong> <sub>Works perfectly across modern browsers</sub></td>
   </tr>
-  <tr>
-    <td>♿</td>
-    <td><strong>Accessible & Semantic</strong><br><sub>Built for people and search engines</sub></td>
+  <tr style="background-color:#fdf6e3;">
+    <td align="center">♿</td>
+    <td><strong>Accessible & Semantic</strong> <sub>Built for people and search engines</sub></td>
   </tr>
 </table>
 
