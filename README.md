@@ -77,9 +77,8 @@
   <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/CSS-43.3%25-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/JavaScript-11.4%25-yellow?style=for-the-badge">
-  ![Tech Stack Chart](assets/tech_stack_chart.png)
 </p>
-
+![Tech Stack Chart](assets/tech_stack_chart.png)
 
 ---
 
