@@ -1,22 +1,24 @@
+<h1 align="center">🚀 Modern Landing Page</h1>
+
+<p align="center">
+  A high-impact, fully responsive landing page built with modern web technologies — <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>EmailJS API</b> integration.<br>
+  Designed with a sleek, elegant interface and smooth user experience, it's perfect for showcasing <b>portfolios</b>, launching <b>startups</b>, promoting <b>products</b>, or presenting <b>services</b> with style and clarity.
+</p>
+
+<p align="center">
+  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
+  <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=for-the-badge">
+</p>
+
+---
+
 ## 📸 Preview
 
 <p align="center">
   <img src="assets/preview.png" alt="Landing Page Screenshot" width="800" />
-</p>
-
----
- <h1 align="left"> <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
-  <p align="right">
-  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
-  </p>
-  </a>
-</h1> 
-
-<h1 align="center"> 🚀 Modern Landing Page</h1>
-
-<p align="center">
-  A high-impact, fully responsive landing page built with modern web technologies — HTML, CSS, JavaScript, and EmailJs API Integration.</br> Designed with a sleek, elegant interface and smooth user experience, it's perfect for showcasing portfolios, launching startups, promoting products, or presenting services with style and clarity.
 </p>
 
 ---
@@ -77,8 +79,22 @@
   <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge">
 </p>
 
-
 ---
 
 ## 📁 Folder Structure
 
+Landing-Page/</br>
+│</br>
+├── 📄 index.html              # Main HTML file (entry point)</br>
+│</br>
+├── 📁 css/                    # Stylesheet directory</br>
+│   └── 🎨 style.css           # Main styling: layout, animations, responsiveness</br>
+│</br>
+├── 📁 js/                     # JavaScript logic folder</br>
+│   └── ⚙️ script.js           # Interactive behavior (e.g., toggle, scroll effects)</br>
+│</br>
+├── 📁 assets/                 # Assets like images, icons, and preview</br>
+│   ├── 🖼️ preview.png         # Project preview used in README</br>
+│   └── 📷 images/             # All image files used in the project</br>
+│</br>
+└── 📘 README.md               # Project documentation</br>
