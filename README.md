@@ -51,16 +51,6 @@
 
 ## 🛠 Tech Stack
 
-| 🧩 Technology      | 🔧 Description                        |
-|--------------------|---------------------------------------|
-| 🟠 **HTML5**        | Semantic markup for content structure |
-| 🔵 **CSS3**         | Styling, layout, and animations       |
-| 🟡 **JavaScript ES6** | UI Interactivity & scroll effects     |
-| 🚀 **GitHub Pages** | Hosting & deployment                  |
-
-
-## 🛠 Tech Stack
-
 <table>
   <tr>
     <th align="left">🌐 Technology</th>
