@@ -1,62 +1,60 @@
-<h1 align="center">🚀 Modern Landing Page</h1>
+<h1 align="center" style="color:#00BFFF;">🚀 Modern Landing Page</h1>
 
 <p align="center">
-  ✨ A professional, sleek, and responsive landing page template built with HTML, CSS, and JavaScript ✨<br>
+  ✨ A professional, sleek, and responsive landing page template built with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> ✨<br>
   💼 Perfect for portfolios, startups, products, or services
 </p>
 
 <p align="center">
-  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=github"></a></br></br>
-  <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=flat-square"></br></br>
-  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=flat-square"></br>
+  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=blueviolet">
+  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
+  <br><br>
+  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/CSS-30%25-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=flat-square">
 </p>
 
 ---
 
-## 🧾 Overview
+## 📖 Overview
 
-This landing page is thoughtfully crafted for personal and professional branding. Built with minimal dependencies and modern best practices, it provides:
+> A minimal yet powerful landing page crafted for developers, freelancers, and startups looking to make a strong first impression online.
 
-- Clean, modern UI
-- Smooth animations
-- Mobile-first responsiveness
-- SEO-friendly structure
-- Lightning-fast performance
+### ⚡ Highlights:
+- ✨ Clean and modern user interface  
+- 🎯 Responsive and mobile-first design  
+- 🔍 SEO-friendly semantic HTML  
+- ⚡ Fast loading with optimized assets  
+- 🌐 Deploy-ready with GitHub Pages
 
 ---
 
 ## 🎯 Key Features
 
-- ✅ **Responsive Design** – Looks perfect on mobile, tablet & desktop  
-- ✅ **Animated Scroll Effects** – Subtle transitions for polished user experience  
-- ✅ **Clean Codebase** – Well-commented and modular  
-- ✅ **Fully Customizable** – Change colors, content, layout effortlessly  
-- ✅ **No Frameworks** – Built with pure HTML/CSS/JS for speed  
-- ✅ **Optimized Assets** – Minimized images & code for performance  
-- ✅ **Cross-Browser Compatible** – Chrome, Firefox, Safari, Edge  
+- ✅ **Responsive Design** – Looks great on all screen sizes  
+- ✅ **Animated Effects** – Smooth transitions for interactive sections  
+- ✅ **Clean Codebase** – Simple, modular, and easy to understand  
+- ✅ **Fully Customizable** – Swap colors, content, sections quickly  
+- ✅ **No Framework Bloat** – Pure HTML/CSS/JS = blazing fast  
+- ✅ **Cross-Browser Support** – Works perfectly across modern browsers  
+- ✅ **Accessible & Semantic** – Built for people and search engines
 
 ---
 
 ## 🛠 Tech Stack
 
-| Technology  | Usage                   |
-|-------------|--------------------------|
-| **HTML5**   | Semantic page structure |
-| **CSS3**    | Layout, animations, responsive styling |
-| **JavaScript (ES6)** | Interactivity (menu, scroll, effects) |
-| **GitHub Pages** | Hosting and deployment |
+| 🧩 Technology      | 🔧 Description                        |
+|--------------------|---------------------------------------|
+| 🟠 **HTML5**        | Semantic markup for content structure |
+| 🔵 **CSS3**         | Styling, layout, and animations       |
+| 🟡 **JavaScript ES6** | UI Interactivity & scroll effects     |
+| 🚀 **GitHub Pages** | Hosting & deployment                  |
 
 ---
 
 ## 📁 Folder Structure
 
-Landing-Page/</br>
-│</br>
-├── index.html # Main HTML file</br>
-├── css/</br>
-│ └── style.css # All styling (animations, layout, responsiveness)</br>
-├── js/</br>
-│ └── script.js # Interactivity (scroll, toggles)</br>
-├── assets/</br>
-│ └── images/ # Image resources</br>
-└── README.md # Project documentation</br>
