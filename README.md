@@ -57,15 +57,15 @@
   </tr>
   <tr>
     <td><strong>🔶 HTML5</strong></td>
-    <td>Page structure & semantic layout (46.%)</td>
+    <td>Page structure & semantic layout (47.3%)</td>
   </tr>
   <tr>
     <td><strong>🔷 CSS3</strong></td>
-    <td>Styling, animations, and responsiveness (43.%)</td>
+    <td>Styling, animations, and responsiveness (43.3%)</td>
   </tr>
   <tr>
     <td><strong>🟡 JavaScript (ES6)</strong></td>
-    <td>Interactive behavior & DOM manipulation (11.%)</td>
+    <td>Interactive behavior & DOM manipulation (11.4%)</td>
   </tr>
   <tr>
     <td><strong>🚀 GitHub Pages</strong></td>
@@ -74,9 +74,9 @@
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-30%25-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-43.3%25-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-11.4%25-yellow?style=for-the-badge">
 </p>
 
 ---
