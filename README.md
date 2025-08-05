@@ -50,6 +50,8 @@
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
     <th align="left">🌐 Technology</th>
@@ -73,22 +75,25 @@
   </tr>
 </table>
 
+<br/>
+
 <table>
   <tr>
-    <!-- Chart on the left -->
-    <td align="left" width="50%">
-      <img src="assets/tech_stack_chart.png" alt="Tech Stack Chart" width="300"/>
+    <!-- Left: Chart -->
+    <td align="center" width="50%">
+      <img src="assets/tech_stack_chart.png" alt="Tech Stack Chart" width="350"/>
     </td>
-    <!-- Badges on the right -->
-    <td align="right" valign="middle">
-      <p>
-        <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge" alt="HTML Badge"/><br><br>
-        <img src="https://img.shields.io/badge/CSS-43.3%25-blue?style=for-the-badge" alt="CSS Badge"/><br><br>
-        <img src="https://img.shields.io/badge/JavaScript-11.4%25-yellow?style=for-the-badge" alt="JavaScript Badge"/>
-      </p>
+
+    <!-- Right: Badges -->
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge" alt="HTML Badge"/><br><br>
+      <img src="https://img.shields.io/badge/CSS-43.3%25-blue?style=for-the-badge" alt="CSS Badge"/><br><br>
+      <img src="https://img.shields.io/badge/JavaScript-11.4%25-yellow?style=for-the-badge" alt="JavaScript Badge"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -106,6 +111,7 @@ Landing-Page/</br>
 │</br>
 ├── 📁 assets/                 # Assets like images, icons, and preview</br>
 │   ├── 🖼️ preview.png         # Project preview used in README</br>
+│   ├── 📊 tech_stack_chart.png # Chart image showing tech stack usage</br>
 │   └── 📷 images/             # All image files used in the project</br>
 │</br>
 └── 📘 README.md               # Project documentation</br>
