@@ -13,12 +13,6 @@
 
 ---
 
-## 🌐 Live Preview
-
-🔗 [View Demo](https://shivammaurya2002.github.io/Landing-Page)
-
----
-
 ## 🧾 Overview
 
 This landing page is thoughtfully crafted for personal and professional branding. Built with minimal dependencies and modern best practices, it provides:
