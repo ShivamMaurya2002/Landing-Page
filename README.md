@@ -68,27 +68,27 @@
   </tr>
   <tr style="background-color:#f0f8ff;">
     <td align="center">🎨</td>
-    <td><strong>Animated Effects</strong> <sub>Smooth transitions for interactive sections</sub></td>
+    <td><strong>Animated Effects:- </strong> Smooth transitions for interactive sections.</td>
   </tr>
   <tr style="background-color:#fdf6e3;">
     <td align="center">🧹</td>
-    <td><strong>Clean Codebase</strong> <sub>Simple, modular, and easy to understand</sub></td>
+    <td><strong>Clean Codebase:- </strong> Simple, modular, and easy to understand.</td>
   </tr>
   <tr style="background-color:#f0f8ff;">
     <td align="center">🎛️</td>
-    <td><strong>Fully Customizable</strong> <sub>Swap colors, content, sections quickly</sub></td>
+    <td><strong>Fully Customizable:- </strong> Swap colors, content, sections quickly.</td>
   </tr>
   <tr style="background-color:#fdf6e3;">
     <td align="center">⚙️</td>
-    <td><strong>No Framework Bloat</strong> <sub>Pure HTML/CSS/JS = blazing fast</sub></td>
+    <td><strong>No Framework Bloat:- </strong> Pure HTML/CSS/JS = blazing fast.</td>
   </tr>
   <tr style="background-color:#f0f8ff;">
     <td align="center">🌍</td>
-    <td><strong>Cross-Browser Support</strong> <sub>Works perfectly across modern browsers</sub></td>
+    <td><strong>Cross-Browser Support:- </strong> Works perfectly across modern browsers.</td>
   </tr>
   <tr style="background-color:#fdf6e3;">
     <td align="center">♿</td>
-    <td><strong>Accessible & Semantic</strong> <sub>Built for people and search engines</sub></td>
+    <td><strong>Accessible & Semantic:- </strong> <sub>Built for people and search engines.</td>
   </tr>
 </table>
 
