@@ -23,9 +23,9 @@
 
 ---
 
-## 📖 Overview
+<h1 align="center"> ## 📖 Overview
 
-> A minimal yet powerful landing page crafted for developers, freelancers, and startups looking to make a strong first impression online.
+<h1 align="center"> <p> -> A minimal yet powerful landing page crafted for developers, freelancers, and startups looking to make a strong first impression online.</p></h1>
 
 ### ⚡ Highlights:
 - ✨ Clean and modern user interface  
