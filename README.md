@@ -83,7 +83,6 @@
     <td align="center" width="50%">
       <img src="assets/tech_stack_chart.png" alt="Tech Stack Chart" width="350"/>
     </td>
-
     <!-- Right: Badges -->
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge" alt="HTML Badge"/><br><br>
