@@ -58,6 +58,39 @@
 | 🟡 **JavaScript ES6** | UI Interactivity & scroll effects     |
 | 🚀 **GitHub Pages** | Hosting & deployment                  |
 
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <th align="left">🌐 Technology</th>
+    <th align="left">📊 Usage & Purpose</th>
+  </tr>
+  <tr>
+    <td><strong>🔶 HTML5</strong></td>
+    <td>Page structure & semantic layout (60%)</td>
+  </tr>
+  <tr>
+    <td><strong>🔷 CSS3</strong></td>
+    <td>Styling, animations, and responsiveness (30%)</td>
+  </tr>
+  <tr>
+    <td><strong>🟡 JavaScript (ES6)</strong></td>
+    <td>Interactive behavior & DOM manipulation (10%)</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 GitHub Pages</strong></td>
+    <td>Fast, free deployment & hosting</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CSS-30%25-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=for-the-badge">
+</p>
+
+
 ---
 
 ## 📁 Folder Structure
