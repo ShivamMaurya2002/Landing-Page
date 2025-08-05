@@ -54,7 +54,6 @@ This landing page is thoughtfully crafted for personal and professional branding
 | **CSS3**    | Layout, animations, responsive styling |
 | **JavaScript (ES6)** | Interactivity (menu, scroll, effects) |
 | **GitHub Pages** | Hosting and deployment |
-| *(Optional)* | Bootstrap / Tailwind (if added) |
 
 ---
 
