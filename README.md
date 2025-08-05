@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
-  </a>
-  <br><br>
   <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=blueviolet">
   <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
   <br>
