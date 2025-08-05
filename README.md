@@ -60,3 +60,13 @@ This landing page is thoughtfully crafted for personal and professional branding
 
 ## 📁 Folder Structure
 
+Landing-Page/</br>
+│</br>
+├── index.html # Main HTML file</br>
+├── css/</br>
+│ └── style.css # All styling (animations, layout, responsiveness)</br>
+├── js/</br>
+│ └── script.js # Interactivity (scroll, toggles)</br>
+├── assets/</br>
+│ └── images/ # Image resources</br>
+└── README.md # Project documentation</br>
