@@ -59,15 +59,38 @@
 
 ---
 
-## 🎯 Key Features
+<h1 align="center">🎯 Key Features</h1>
 
-- ✅ **Responsive Design** – Looks great on all screen sizes  
-- ✅ **Animated Effects** – Smooth transitions for interactive sections  
-- ✅ **Clean Codebase** – Simple, modular, and easy to understand  
-- ✅ **Fully Customizable** – Swap colors, content, sections quickly  
-- ✅ **No Framework Bloat** – Pure HTML/CSS/JS = blazing fast  
-- ✅ **Cross-Browser Support** – Works perfectly across modern browsers  
-- ✅ **Accessible & Semantic** – Built for people and search engines
+<table align="center">
+  <tr>
+    <td>✅</td>
+    <td><strong>Responsive Design</strong><br><sub>Looks great on all screen sizes</sub></td>
+  </tr>
+  <tr>
+    <td>🎨</td>
+    <td><strong>Animated Effects</strong><br><sub>Smooth transitions for interactive sections</sub></td>
+  </tr>
+  <tr>
+    <td>🧹</td>
+    <td><strong>Clean Codebase</strong><br><sub>Simple, modular, and easy to understand</sub></td>
+  </tr>
+  <tr>
+    <td>🎛️</td>
+    <td><strong>Fully Customizable</strong><br><sub>Swap colors, content, sections quickly</sub></td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><strong>No Framework Bloat</strong><br><sub>Pure HTML/CSS/JS = blazing fast</sub></td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><strong>Cross-Browser Support</strong><br><sub>Works perfectly across modern browsers</sub></td>
+  </tr>
+  <tr>
+    <td>♿</td>
+    <td><strong>Accessible & Semantic</strong><br><sub>Built for people and search engines</sub></td>
+  </tr>
+</table>
 
 ---
 
