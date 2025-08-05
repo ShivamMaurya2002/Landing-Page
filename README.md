@@ -1,8 +1,7 @@
 <h1 align="center">🚀 Modern Landing Page</h1>
 
 <p align="center">
-  ✨ A professional, sleek, and responsive landing page template built with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b> ✨<br>
-  💼 Perfect for portfolios, startups, products, or services
+  A high-impact, fully responsive landing page built with modern web technologies — HTML, CSS, and JavaScript. Designed with a sleek, elegant interface and smooth user experience, it's perfect for showcasing portfolios, launching startups, promoting products, or presenting services with style and clarity.
 </p>
 
 <p align="center">
