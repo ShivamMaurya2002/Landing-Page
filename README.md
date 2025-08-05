@@ -142,21 +142,7 @@
 
 ---
 
-## 📁 Folder Structure
+<p align="center">
+ ShivamMaurya2002  © 2025. Designed & Developed by <strong><a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a></strong>
+</p>
 
-Landing-Page/</br>
-│</br>
-├── 📄 index.html              # Main HTML file (entry point)</br>
-│</br>
-├── 📁 css/                    # Stylesheet directory</br>
-│   └── 🎨 style.css           # Main styling: layout, animations, responsiveness</br>
-│</br>
-├── 📁 js/                     # JavaScript logic folder</br>
-│   └── ⚙️ script.js           # Interactive behavior (e.g., toggle, scroll effects)</br>
-│</br>
-├── 📁 assets/                 # Assets like images, icons, and preview</br>
-│   ├── 🖼️ preview.png         # Project preview used in README</br>
-│   ├── 📊 tech_stack_chart.png # Chart image showing tech stack usage</br>
-│   └── 📷 images/             # All image files used in the project</br>
-│</br>
-└── 📘 README.md               # Project documentation</br>
