@@ -143,6 +143,7 @@
 ---
 
 <p align="center">
- ShivamMaurya2002  © 2025. Designed & Developed by <strong><a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a></strong>
+   © 2025, ShivamMaurya2002. 🚀 Built with passion and precision by <strong><a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a></strong>•
 </p>
+
 
