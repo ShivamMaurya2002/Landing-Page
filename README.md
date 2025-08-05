@@ -57,15 +57,15 @@
   </tr>
   <tr>
     <td><strong>🔶 HTML5</strong></td>
-    <td>Page structure & semantic layout (60%)</td>
+    <td>Page structure & semantic layout (46.%)</td>
   </tr>
   <tr>
     <td><strong>🔷 CSS3</strong></td>
-    <td>Styling, animations, and responsiveness (30%)</td>
+    <td>Styling, animations, and responsiveness (43.%)</td>
   </tr>
   <tr>
     <td><strong>🟡 JavaScript (ES6)</strong></td>
-    <td>Interactive behavior & DOM manipulation (10%)</td>
+    <td>Interactive behavior & DOM manipulation (11.%)</td>
   </tr>
   <tr>
     <td><strong>🚀 GitHub Pages</strong></td>
