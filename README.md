@@ -34,14 +34,28 @@
 
 <h1 align="center">⚡ Highlights</h1>
 
-<p align="center">
-  ✨ Clean and modern user interface<br/>
-  🎯 Responsive and mobile-first design<br/>
-  🔍 SEO-friendly semantic HTML<br/>
-  ⚡ Fast loading with optimized assets<br/>
-  🌐 Deploy-ready with GitHub Pages
-</p>
-
+<table align="center">
+  <tr>
+    <td>✨</td>
+    <td><strong>Clean and modern user interface</strong></td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><strong>Responsive and mobile-first design</strong></td>
+  </tr>
+  <tr>
+    <td>🔍</td>
+    <td><strong>SEO-friendly semantic HTML</strong></td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>Fast loading with optimized assets</strong></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Deploy-ready with GitHub Pages</strong></td>
+  </tr>
+</table>
 
 ---
 
