@@ -1,3 +1,4 @@
+
 <h1 align="center">🚀 Modern Landing Page</h1>
 
 <p align="center">
@@ -5,17 +6,19 @@
   Designed with a sleek, elegant interface and smooth user experience, it's perfect for showcasing <b>portfolios</b>, launching <b>startups</b>, promoting <b>products</b>, or presenting <b>services</b> with style and clarity.
 </p>
 
+
 <p align="center">
-  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
-  </a>
   <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
   <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=for-the-badge">
 </p>
 
 ---
 
-## 📸 Preview
+<h1 align="center"> 📸 Preview  </h1>
+<p  align="left"></p><a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 <p align="center">
   <img src="assets/Home.png" alt="Landing Page Screenshot" width="1000" />
