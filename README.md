@@ -14,11 +14,11 @@
 
 ---
 
-<h1 align="center"> 📸 Preview  </h1>
-<p  align="left"></p><a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
-    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
-  </a>
-</p>
+<h1 align="center">📸 Preview</h1>
+
+<a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github" alt="Live Demo Badge">
+</a></br></br>
 
 <p align="center">
   <img src="assets/Home.png" alt="Landing Page Screenshot" width="1000" />
