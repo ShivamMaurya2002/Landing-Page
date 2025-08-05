@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=github"></a>
-  <img src="https://img.shields.io/github/license/ShivamMaurya2002/Landing-Page?style=flat-square">
-  <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=flat-square">
-  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=flat-square">
+  <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank"><img src="https://img.shields.io/badge/Live-Demo-green?style=flat-square&logo=github"></a></br>
+  <img src="https://img.shields.io/github/languages/top/ShivamMaurya2002/Landing-Page?style=flat-square"></br>
+  <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=flat-square"></br>
 </p>
 
 ---
