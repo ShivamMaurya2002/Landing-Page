@@ -1,3 +1,11 @@
+## 📸 Preview
+
+<p align="center">
+  <img src="assets/preview.png" alt="Landing Page Screenshot" width="800" />
+</p>
+
+---
+
 <h1 align="center">🚀 Modern Landing Page</h1>
 
 <p align="center">
@@ -15,14 +23,6 @@
   <img src="https://img.shields.io/badge/HTML-60%25-orange?style=flat-square">
   <img src="https://img.shields.io/badge/CSS-30%25-blue?style=flat-square">
   <img src="https://img.shields.io/badge/JavaScript-10%25-yellow?style=flat-square">
-</p>
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="assets/preview.png" alt="Landing Page Screenshot" width="800" />
 </p>
 
 ---
