@@ -18,7 +18,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/Home.png" alt="Landing Page Screenshot" width="800" />
+  <img src="assets/Home.png" alt="Landing Page Screenshot" width="1000" />
 </p>
 
 ---
