@@ -88,7 +88,7 @@
   </tr>
   <tr style="background-color:#fdf6e3;">
     <td align="center">♿</td>
-    <td><strong>Accessible & Semantic:- </strong> <sub>Built for people and search engines.</td>
+    <td><strong>Accessible & Semantic:- </strong> Built for people and search engines.</td>
   </tr>
 </table>
 
