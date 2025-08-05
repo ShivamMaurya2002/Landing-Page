@@ -73,12 +73,22 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-43.3%25-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-11.4%25-yellow?style=for-the-badge">
-</p>
-![Tech Stack Chart](assets/tech_stack_chart.png)
+<table>
+  <tr>
+    <!-- Chart on the left -->
+    <td align="left" width="50%">
+      <img src="assets/tech_stack_chart.png" alt="Tech Stack Chart" width="300"/>
+    </td>
+    <!-- Badges on the right -->
+    <td align="right" valign="middle">
+      <p>
+        <img src="https://img.shields.io/badge/HTML-47.3%25-orange?style=for-the-badge" alt="HTML Badge"/><br><br>
+        <img src="https://img.shields.io/badge/CSS-43.3%25-blue?style=for-the-badge" alt="CSS Badge"/><br><br>
+        <img src="https://img.shields.io/badge/JavaScript-11.4%25-yellow?style=for-the-badge" alt="JavaScript Badge"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
