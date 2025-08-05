@@ -7,11 +7,11 @@
 ---
  <h1 align="left"> <a href="https://shivammaurya2002.github.io/Landing-Page" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github">
-  </a>
-   <p align="right">
+  <p align="right">
   <img src="https://img.shields.io/github/last-commit/ShivamMaurya2002/Landing-Page?style=for-the-badge&color=crimson">
-</p>
-  </h1> 
+  </p>
+  </a>
+</h1> 
 
 <h1 align="center"> 🚀 Modern Landing Page</h1>
 
