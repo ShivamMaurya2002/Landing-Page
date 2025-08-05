@@ -23,16 +23,18 @@
 
 ---
 
-<h1 align="center"> ## 📖 Overview </h1>
+<h1 align="center"> 📖 Overview </h1>
 
 <p align="center"> -> A minimal yet powerful landing page crafted for developers, freelancers, and startups looking to make a strong first impression online.</p>
 
-### ⚡ Highlights:
+<h1 align="center">⚡ Highlights: </h1>
+<p align="center">
 - ✨ Clean and modern user interface  
 - 🎯 Responsive and mobile-first design  
 - 🔍 SEO-friendly semantic HTML  
 - ⚡ Fast loading with optimized assets  
 - 🌐 Deploy-ready with GitHub Pages
+</p>
 
 ---
 
