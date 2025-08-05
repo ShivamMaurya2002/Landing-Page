@@ -21,9 +21,7 @@ This landing page is thoughtfully crafted for personal and professional branding
 - Smooth animations
 - Mobile-first responsiveness
 - SEO-friendly structure
-- Lightning-fast performance ⚡
-
-> Whether you're a developer, freelancer, or startup — this template is the perfect starting point for your web presence.
+- Lightning-fast performance
 
 ---
 
