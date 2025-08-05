@@ -29,7 +29,8 @@
 <h1 align="center">📖 Overview</h1>
 
 <p align="center">
-  A minimal yet powerful landing page crafted for <b>developers</b>, <b>freelancers</b>, and <b>startups</b> looking to make a strong first impression online.
+A modern, fully responsive landing page thoughtfully crafted for developers, freelancers, and startups who want to establish a strong and professional digital presence.
+Designed with clean code, seamless animations, and a mobile-first approach, it serves as the perfect solution for showcasing portfolios, launching new products, or promoting services with clarity, impact, and style.
 </p>
 
 <h1 align="center">⚡ Highlights</h1>
@@ -143,7 +144,7 @@
 ---
 
 <p align="center">
-   © 2025, ShivamMaurya2002. 🚀 Built with passion and precision by <strong><a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a></strong>•
+   © 2025, ShivamMaurya2002. 🚀 Built with passion and precision by <strong><a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a></strong>
 </p>
 
 
