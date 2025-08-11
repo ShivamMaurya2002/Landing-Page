@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Modern Landing Page</h1>
+<h1 align="center">🚀 Landing Page</h1>
 
 <p align="center">
   A high-impact, fully responsive landing page built with modern web technologies — <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>EmailJS API</b> integration.<br>
