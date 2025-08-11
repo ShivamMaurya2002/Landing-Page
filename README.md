@@ -143,8 +143,8 @@ Designed with clean code, seamless animations, and a mobile-first approach, it s
 
 ---
 
-<p align="center">
-   © 2025, ShivamMaurya2002. 🚀 Built with passion and precision by <strong><a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a></strong>
+<p align="center"> © 2025, ShivamMaurya2002. 🚀 Built with passion and precision by 
+  <strong>
+     <a href="https://github.com/ShivamMaurya2002" target="_blank">Shivam Maurya</a>
+   </strong>
 </p>
-
-
